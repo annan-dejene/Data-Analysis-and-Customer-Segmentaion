@@ -1,0 +1,3405 @@
+customer_id,RFM_level
+1,Can't Loose Them
+2,Needs Attention
+4,Require Activation
+5,Can't Loose Them
+6,Loyal
+7,Require Activation
+8,Can't Loose Them
+9,Loyal
+11,Loyal
+12,Champions
+13,Can't Loose Them
+14,Needs Attention
+15,Champions
+16,Potential
+17,Champions
+18,Champions
+19,Require Activation
+20,Loyal
+21,Can't Loose Them
+24,Can't Loose Them
+25,Can't Loose Them
+26,Require Activation
+27,Loyal
+28,Loyal
+29,Can't Loose Them
+30,Potential
+31,Require Activation
+32,Loyal
+33,Can't Loose Them
+35,Needs Attention
+36,Require Activation
+37,Can't Loose Them
+38,Promising
+39,Can't Loose Them
+40,Champions
+41,Can't Loose Them
+42,Require Activation
+43,Can't Loose Them
+44,Can't Loose Them
+45,Promising
+46,Potential
+47,Can't Loose Them
+48,Can't Loose Them
+49,Potential
+50,Can't Loose Them
+51,Can't Loose Them
+52,Can't Loose Them
+53,Champions
+54,Can't Loose Them
+55,Can't Loose Them
+56,Can't Loose Them
+57,Can't Loose Them
+58,Can't Loose Them
+59,Promising
+60,Require Activation
+61,Champions
+62,Can't Loose Them
+63,Promising
+64,Champions
+65,Potential
+66,Champions
+67,Promising
+68,Promising
+69,Can't Loose Them
+70,Champions
+71,Require Activation
+72,Potential
+73,Potential
+74,Promising
+75,Can't Loose Them
+76,Can't Loose Them
+77,Require Activation
+78,Require Activation
+79,Potential
+80,Can't Loose Them
+81,Loyal
+82,Potential
+83,Loyal
+84,Champions
+85,Loyal
+86,Can't Loose Them
+87,Can't Loose Them
+88,Loyal
+89,Can't Loose Them
+90,Can't Loose Them
+91,Can't Loose Them
+92,Potential
+93,Promising
+94,Can't Loose Them
+95,Potential
+96,Needs Attention
+97,Can't Loose Them
+98,Needs Attention
+99,Can't Loose Them
+100,Potential
+101,Loyal
+102,Can't Loose Them
+103,Needs Attention
+104,Champions
+105,Promising
+106,Potential
+107,Needs Attention
+108,Potential
+109,Can't Loose Them
+110,Can't Loose Them
+111,Needs Attention
+112,Can't Loose Them
+113,Potential
+114,Needs Attention
+115,Can't Loose Them
+116,Can't Loose Them
+117,Can't Loose Them
+118,Potential
+119,Potential
+120,Require Activation
+121,Needs Attention
+122,Can't Loose Them
+123,Needs Attention
+124,Can't Loose Them
+125,Can't Loose Them
+126,Potential
+127,Can't Loose Them
+128,Require Activation
+129,Needs Attention
+130,Needs Attention
+131,Champions
+132,Can't Loose Them
+133,Potential
+134,Can't Loose Them
+135,Loyal
+136,Can't Loose Them
+137,Potential
+138,Loyal
+139,Can't Loose Them
+140,Can't Loose Them
+141,Needs Attention
+142,Can't Loose Them
+143,Loyal
+145,Can't Loose Them
+146,Require Activation
+147,Can't Loose Them
+148,Loyal
+149,Loyal
+150,Needs Attention
+151,Can't Loose Them
+152,Require Activation
+153,Champions
+154,Potential
+155,Potential
+156,Champions
+157,Require Activation
+158,Champions
+159,Champions
+160,Require Activation
+161,Require Activation
+162,Require Activation
+163,Require Activation
+164,Require Activation
+165,Can't Loose Them
+166,Can't Loose Them
+167,Can't Loose Them
+169,Needs Attention
+170,Require Activation
+171,Can't Loose Them
+172,Can't Loose Them
+173,Can't Loose Them
+174,Can't Loose Them
+175,Loyal
+176,Loyal
+177,Can't Loose Them
+178,Promising
+179,Promising
+180,Can't Loose Them
+181,Potential
+182,Can't Loose Them
+183,Loyal
+184,Promising
+185,Can't Loose Them
+186,Champions
+187,Can't Loose Them
+188,Can't Loose Them
+189,Can't Loose Them
+190,Promising
+191,Require Activation
+192,Needs Attention
+193,Champions
+194,Needs Attention
+195,Can't Loose Them
+196,Champions
+197,Can't Loose Them
+198,Can't Loose Them
+199,Loyal
+200,Can't Loose Them
+201,Can't Loose Them
+202,Potential
+203,Champions
+204,Can't Loose Them
+205,Can't Loose Them
+206,Promising
+207,Require Activation
+208,Loyal
+209,Potential
+210,Can't Loose Them
+211,Can't Loose Them
+212,Require Activation
+213,Can't Loose Them
+214,Potential
+215,Can't Loose Them
+216,Loyal
+217,Can't Loose Them
+218,Potential
+219,Can't Loose Them
+220,Can't Loose Them
+221,Can't Loose Them
+222,Promising
+223,Can't Loose Them
+224,Can't Loose Them
+225,Promising
+226,Require Activation
+227,Loyal
+228,Potential
+229,Potential
+230,Can't Loose Them
+231,Potential
+232,Potential
+233,Can't Loose Them
+234,Can't Loose Them
+235,Can't Loose Them
+236,Loyal
+237,Can't Loose Them
+238,Promising
+239,Can't Loose Them
+240,Potential
+241,Needs Attention
+242,Loyal
+243,Loyal
+244,Needs Attention
+245,Champions
+246,Can't Loose Them
+247,Champions
+248,Champions
+249,Can't Loose Them
+250,Can't Loose Them
+251,Promising
+252,Potential
+253,Loyal
+254,Can't Loose Them
+255,Can't Loose Them
+256,Can't Loose Them
+257,Potential
+258,Champions
+259,Potential
+260,Can't Loose Them
+261,Can't Loose Them
+262,Champions
+263,Champions
+264,Needs Attention
+265,Promising
+266,Potential
+268,Promising
+269,Promising
+270,Can't Loose Them
+271,Require Activation
+272,Loyal
+273,Can't Loose Them
+274,Require Activation
+275,Champions
+276,Can't Loose Them
+277,Promising
+278,Require Activation
+279,Champions
+280,Can't Loose Them
+281,Potential
+282,Needs Attention
+283,Potential
+284,Potential
+285,Can't Loose Them
+286,Promising
+287,Require Activation
+288,Promising
+289,Can't Loose Them
+291,Promising
+292,Can't Loose Them
+293,Champions
+294,Champions
+295,Can't Loose Them
+296,Potential
+297,Loyal
+298,Can't Loose Them
+299,Champions
+300,Potential
+301,Require Activation
+302,Require Activation
+303,Promising
+304,Can't Loose Them
+305,Champions
+306,Require Activation
+307,Can't Loose Them
+308,Can't Loose Them
+309,Loyal
+310,Can't Loose Them
+311,Champions
+312,Can't Loose Them
+313,Can't Loose Them
+314,Can't Loose Them
+315,Can't Loose Them
+316,Potential
+317,Promising
+318,Can't Loose Them
+319,Loyal
+320,Can't Loose Them
+321,Champions
+322,Can't Loose Them
+323,Champions
+324,Potential
+325,Loyal
+326,Require Activation
+327,Can't Loose Them
+328,Can't Loose Them
+329,Champions
+330,Champions
+331,Champions
+332,Require Activation
+333,Can't Loose Them
+334,Champions
+335,Promising
+336,Promising
+337,Can't Loose Them
+338,Can't Loose Them
+339,Loyal
+340,Can't Loose Them
+341,Require Activation
+342,Require Activation
+343,Can't Loose Them
+344,Can't Loose Them
+345,Can't Loose Them
+346,Can't Loose Them
+347,Can't Loose Them
+348,Potential
+349,Promising
+350,Can't Loose Them
+351,Potential
+352,Can't Loose Them
+353,Can't Loose Them
+354,Loyal
+355,Loyal
+356,Potential
+357,Can't Loose Them
+358,Needs Attention
+359,Can't Loose Them
+360,Can't Loose Them
+361,Loyal
+362,Require Activation
+363,Can't Loose Them
+364,Can't Loose Them
+365,Can't Loose Them
+366,Loyal
+367,Loyal
+368,Can't Loose Them
+369,Can't Loose Them
+370,Loyal
+371,Can't Loose Them
+372,Can't Loose Them
+373,Require Activation
+374,Can't Loose Them
+375,Require Activation
+376,Promising
+377,Can't Loose Them
+378,Potential
+379,Require Activation
+380,Can't Loose Them
+381,Can't Loose Them
+382,Can't Loose Them
+383,Needs Attention
+384,Potential
+385,Can't Loose Them
+386,Potential
+387,Potential
+388,Needs Attention
+389,Promising
+390,Promising
+391,Needs Attention
+392,Champions
+393,Require Activation
+394,Can't Loose Them
+395,Can't Loose Them
+396,Can't Loose Them
+397,Potential
+398,Can't Loose Them
+399,Champions
+400,Promising
+401,Can't Loose Them
+402,Can't Loose Them
+403,Potential
+404,Can't Loose Them
+405,Can't Loose Them
+406,Promising
+407,Can't Loose Them
+408,Champions
+409,Potential
+410,Can't Loose Them
+411,Promising
+412,Promising
+413,Promising
+414,Loyal
+415,Require Activation
+416,Promising
+417,Can't Loose Them
+418,Can't Loose Them
+419,Can't Loose Them
+420,Can't Loose Them
+421,Champions
+422,Needs Attention
+423,Promising
+424,Can't Loose Them
+425,Can't Loose Them
+426,Can't Loose Them
+427,Needs Attention
+428,Can't Loose Them
+429,Can't Loose Them
+430,Champions
+431,Require Activation
+432,Can't Loose Them
+433,Can't Loose Them
+434,Require Activation
+435,Needs Attention
+436,Needs Attention
+437,Loyal
+438,Can't Loose Them
+439,Promising
+440,Can't Loose Them
+441,Needs Attention
+442,Can't Loose Them
+443,Loyal
+444,Can't Loose Them
+445,Can't Loose Them
+446,Can't Loose Them
+447,Can't Loose Them
+448,Needs Attention
+449,Loyal
+450,Promising
+452,Potential
+455,Promising
+456,Potential
+457,Potential
+458,Potential
+459,Champions
+460,Needs Attention
+461,Can't Loose Them
+462,Loyal
+463,Champions
+464,Can't Loose Them
+465,Can't Loose Them
+466,Can't Loose Them
+467,Loyal
+468,Loyal
+469,Champions
+470,Can't Loose Them
+471,Champions
+472,Loyal
+473,Can't Loose Them
+474,Require Activation
+475,Champions
+476,Loyal
+477,Champions
+478,Can't Loose Them
+479,Can't Loose Them
+481,Potential
+482,Can't Loose Them
+483,Can't Loose Them
+484,Loyal
+485,Can't Loose Them
+486,Potential
+487,Require Activation
+488,Champions
+489,Promising
+490,Can't Loose Them
+491,Champions
+492,Needs Attention
+493,Needs Attention
+494,Require Activation
+495,Loyal
+496,Promising
+497,Needs Attention
+498,Can't Loose Them
+499,Can't Loose Them
+500,Can't Loose Them
+501,Require Activation
+502,Require Activation
+503,Needs Attention
+504,Champions
+505,Can't Loose Them
+506,Can't Loose Them
+507,Can't Loose Them
+508,Needs Attention
+509,Loyal
+510,Needs Attention
+511,Champions
+512,Needs Attention
+514,Potential
+515,Can't Loose Them
+516,Can't Loose Them
+517,Can't Loose Them
+518,Require Activation
+519,Promising
+520,Loyal
+521,Require Activation
+522,Promising
+523,Can't Loose Them
+524,Loyal
+525,Can't Loose Them
+527,Promising
+528,Loyal
+529,Can't Loose Them
+530,Require Activation
+531,Potential
+532,Loyal
+533,Can't Loose Them
+534,Can't Loose Them
+535,Needs Attention
+536,Promising
+537,Needs Attention
+538,Can't Loose Them
+539,Can't Loose Them
+540,Loyal
+541,Potential
+542,Can't Loose Them
+543,Champions
+544,Needs Attention
+545,Can't Loose Them
+546,Champions
+547,Champions
+549,Can't Loose Them
+550,Champions
+551,Require Activation
+552,Require Activation
+553,Can't Loose Them
+554,Promising
+555,Needs Attention
+556,Can't Loose Them
+557,Require Activation
+558,Champions
+559,Loyal
+560,Can't Loose Them
+561,Champions
+562,Potential
+563,Champions
+564,Can't Loose Them
+565,Can't Loose Them
+566,Needs Attention
+567,Needs Attention
+568,Potential
+569,Promising
+570,Can't Loose Them
+571,Needs Attention
+572,Can't Loose Them
+573,Require Activation
+574,Needs Attention
+575,Require Activation
+576,Can't Loose Them
+577,Can't Loose Them
+578,Loyal
+579,Can't Loose Them
+580,Loyal
+581,Promising
+583,Potential
+584,Require Activation
+585,Loyal
+586,Needs Attention
+587,Champions
+588,Champions
+589,Potential
+590,Can't Loose Them
+591,Require Activation
+592,Require Activation
+593,Can't Loose Them
+594,Can't Loose Them
+595,Require Activation
+596,Promising
+597,Potential
+598,Loyal
+600,Require Activation
+601,Potential
+602,Potential
+603,Can't Loose Them
+604,Can't Loose Them
+605,Can't Loose Them
+606,Champions
+607,Can't Loose Them
+608,Can't Loose Them
+609,Promising
+610,Can't Loose Them
+611,Can't Loose Them
+612,Loyal
+613,Can't Loose Them
+614,Can't Loose Them
+615,Loyal
+616,Needs Attention
+617,Promising
+618,Require Activation
+619,Champions
+620,Loyal
+621,Can't Loose Them
+622,Needs Attention
+623,Needs Attention
+624,Needs Attention
+625,Can't Loose Them
+626,Can't Loose Them
+627,Loyal
+628,Potential
+629,Can't Loose Them
+630,Can't Loose Them
+631,Champions
+632,Promising
+633,Can't Loose Them
+634,Can't Loose Them
+635,Loyal
+636,Can't Loose Them
+637,Can't Loose Them
+638,Can't Loose Them
+639,Can't Loose Them
+640,Can't Loose Them
+641,Require Activation
+642,Champions
+643,Needs Attention
+644,Require Activation
+645,Champions
+646,Needs Attention
+647,Can't Loose Them
+648,Can't Loose Them
+649,Loyal
+650,Champions
+651,Loyal
+652,Can't Loose Them
+653,Loyal
+654,Promising
+655,Can't Loose Them
+656,Can't Loose Them
+657,Champions
+659,Needs Attention
+660,Loyal
+661,Champions
+662,Champions
+663,Promising
+664,Needs Attention
+665,Champions
+666,Loyal
+667,Loyal
+668,Can't Loose Them
+669,Can't Loose Them
+670,Needs Attention
+671,Champions
+672,Promising
+673,Loyal
+674,Loyal
+675,Loyal
+676,Can't Loose Them
+677,Promising
+678,Require Activation
+679,Can't Loose Them
+681,Can't Loose Them
+682,Can't Loose Them
+683,Champions
+684,Can't Loose Them
+686,Loyal
+687,Champions
+688,Promising
+689,Potential
+690,Potential
+691,Can't Loose Them
+692,Can't Loose Them
+693,Can't Loose Them
+694,Champions
+695,Can't Loose Them
+696,Loyal
+697,Champions
+698,Needs Attention
+699,Needs Attention
+700,Champions
+701,Can't Loose Them
+702,Needs Attention
+703,Can't Loose Them
+704,Can't Loose Them
+705,Potential
+706,Can't Loose Them
+707,Can't Loose Them
+708,Require Activation
+709,Potential
+710,Can't Loose Them
+711,Needs Attention
+712,Can't Loose Them
+713,Needs Attention
+714,Can't Loose Them
+715,Needs Attention
+716,Can't Loose Them
+717,Can't Loose Them
+718,Can't Loose Them
+719,Can't Loose Them
+721,Can't Loose Them
+722,Loyal
+723,Can't Loose Them
+724,Can't Loose Them
+725,Can't Loose Them
+726,Promising
+727,Can't Loose Them
+728,Can't Loose Them
+729,Can't Loose Them
+730,Can't Loose Them
+731,Require Activation
+732,Loyal
+733,Can't Loose Them
+734,Require Activation
+735,Potential
+736,Champions
+737,Champions
+738,Can't Loose Them
+739,Can't Loose Them
+740,Potential
+741,Needs Attention
+742,Can't Loose Them
+743,Needs Attention
+744,Loyal
+745,Potential
+746,Champions
+747,Promising
+748,Can't Loose Them
+749,Can't Loose Them
+750,Champions
+751,Require Activation
+752,Can't Loose Them
+754,Require Activation
+755,Require Activation
+756,Loyal
+757,Promising
+758,Promising
+759,Can't Loose Them
+760,Can't Loose Them
+761,Potential
+762,Promising
+763,Champions
+764,Needs Attention
+765,Can't Loose Them
+766,Can't Loose Them
+767,Champions
+768,Can't Loose Them
+769,Can't Loose Them
+770,Champions
+771,Loyal
+772,Can't Loose Them
+773,Can't Loose Them
+774,Require Activation
+775,Champions
+776,Can't Loose Them
+777,Champions
+778,Require Activation
+779,Needs Attention
+780,Require Activation
+781,Needs Attention
+782,Can't Loose Them
+783,Potential
+784,Require Activation
+785,Can't Loose Them
+786,Can't Loose Them
+787,Can't Loose Them
+788,Loyal
+789,Can't Loose Them
+790,Can't Loose Them
+791,Loyal
+792,Can't Loose Them
+793,Can't Loose Them
+794,Can't Loose Them
+795,Can't Loose Them
+796,Can't Loose Them
+797,Potential
+798,Potential
+800,Champions
+801,Require Activation
+802,Loyal
+803,Potential
+804,Promising
+805,Loyal
+806,Potential
+807,Promising
+808,Require Activation
+809,Promising
+810,Promising
+811,Require Activation
+812,Require Activation
+813,Potential
+814,Promising
+815,Can't Loose Them
+816,Needs Attention
+817,Champions
+818,Can't Loose Them
+819,Loyal
+820,Can't Loose Them
+821,Loyal
+822,Require Activation
+823,Can't Loose Them
+824,Champions
+825,Can't Loose Them
+826,Loyal
+827,Can't Loose Them
+828,Promising
+829,Can't Loose Them
+830,Loyal
+831,Champions
+832,Can't Loose Them
+833,Can't Loose Them
+834,Potential
+835,Can't Loose Them
+836,Needs Attention
+837,Require Activation
+838,Promising
+840,Can't Loose Them
+841,Champions
+842,Needs Attention
+843,Can't Loose Them
+844,Can't Loose Them
+845,Require Activation
+846,Promising
+847,Needs Attention
+848,Needs Attention
+849,Can't Loose Them
+850,Can't Loose Them
+851,Loyal
+853,Can't Loose Them
+854,Potential
+855,Promising
+856,Can't Loose Them
+857,Champions
+858,Can't Loose Them
+859,Can't Loose Them
+860,Promising
+861,Potential
+862,Needs Attention
+863,Needs Attention
+864,Can't Loose Them
+865,Loyal
+866,Potential
+867,Potential
+868,Champions
+870,Loyal
+871,Can't Loose Them
+872,Require Activation
+873,Loyal
+874,Can't Loose Them
+875,Champions
+876,Potential
+877,Can't Loose Them
+878,Promising
+879,Needs Attention
+880,Promising
+881,Needs Attention
+882,Potential
+884,Can't Loose Them
+885,Potential
+886,Can't Loose Them
+887,Can't Loose Them
+888,Potential
+889,Loyal
+890,Needs Attention
+891,Can't Loose Them
+893,Can't Loose Them
+894,Can't Loose Them
+895,Needs Attention
+896,Potential
+897,Loyal
+898,Require Activation
+899,Loyal
+900,Potential
+901,Potential
+902,Can't Loose Them
+903,Can't Loose Them
+904,Potential
+905,Champions
+906,Can't Loose Them
+907,Loyal
+908,Can't Loose Them
+909,Loyal
+910,Require Activation
+911,Promising
+912,Can't Loose Them
+913,Require Activation
+914,Promising
+915,Loyal
+916,Potential
+917,Can't Loose Them
+918,Champions
+919,Can't Loose Them
+920,Loyal
+921,Can't Loose Them
+922,Require Activation
+923,Can't Loose Them
+924,Champions
+925,Can't Loose Them
+926,Can't Loose Them
+927,Require Activation
+928,Can't Loose Them
+929,Potential
+930,Require Activation
+931,Loyal
+932,Can't Loose Them
+933,Can't Loose Them
+934,Can't Loose Them
+935,Can't Loose Them
+936,Can't Loose Them
+937,Champions
+938,Can't Loose Them
+939,Potential
+940,Loyal
+941,Can't Loose Them
+942,Require Activation
+943,Loyal
+944,Potential
+945,Can't Loose Them
+946,Can't Loose Them
+947,Potential
+948,Require Activation
+949,Loyal
+951,Can't Loose Them
+952,Loyal
+953,Can't Loose Them
+954,Needs Attention
+955,Champions
+956,Require Activation
+957,Loyal
+958,Champions
+959,Loyal
+960,Potential
+961,Needs Attention
+962,Can't Loose Them
+963,Can't Loose Them
+964,Champions
+965,Promising
+966,Potential
+967,Potential
+968,Can't Loose Them
+969,Can't Loose Them
+970,Champions
+971,Loyal
+972,Require Activation
+973,Can't Loose Them
+974,Can't Loose Them
+976,Loyal
+977,Loyal
+978,Promising
+979,Can't Loose Them
+980,Needs Attention
+981,Can't Loose Them
+982,Potential
+984,Can't Loose Them
+985,Loyal
+986,Can't Loose Them
+987,Can't Loose Them
+988,Require Activation
+989,Potential
+990,Can't Loose Them
+991,Loyal
+992,Require Activation
+993,Can't Loose Them
+994,Potential
+995,Can't Loose Them
+997,Champions
+998,Require Activation
+999,Can't Loose Them
+1000,Can't Loose Them
+1001,Can't Loose Them
+1002,Needs Attention
+1003,Can't Loose Them
+1004,Champions
+1005,Potential
+1006,Can't Loose Them
+1007,Can't Loose Them
+1008,Loyal
+1009,Promising
+1010,Require Activation
+1011,Require Activation
+1012,Loyal
+1013,Loyal
+1014,Can't Loose Them
+1015,Can't Loose Them
+1016,Loyal
+1017,Needs Attention
+1018,Champions
+1019,Loyal
+1020,Needs Attention
+1021,Can't Loose Them
+1022,Champions
+1023,Require Activation
+1024,Can't Loose Them
+1025,Can't Loose Them
+1026,Champions
+1027,Can't Loose Them
+1028,Can't Loose Them
+1029,Can't Loose Them
+1030,Can't Loose Them
+1031,Needs Attention
+1032,Can't Loose Them
+1033,Can't Loose Them
+1034,Require Activation
+1035,Potential
+1036,Potential
+1037,Can't Loose Them
+1039,Can't Loose Them
+1040,Needs Attention
+1041,Potential
+1042,Potential
+1043,Can't Loose Them
+1045,Needs Attention
+1046,Promising
+1047,Loyal
+1048,Loyal
+1049,Can't Loose Them
+1050,Champions
+1051,Promising
+1052,Can't Loose Them
+1053,Require Activation
+1054,Can't Loose Them
+1055,Require Activation
+1056,Can't Loose Them
+1057,Require Activation
+1058,Require Activation
+1059,Promising
+1060,Champions
+1061,Champions
+1062,Can't Loose Them
+1063,Loyal
+1064,Needs Attention
+1065,Loyal
+1066,Require Activation
+1067,Require Activation
+1068,Can't Loose Them
+1069,Potential
+1070,Loyal
+1071,Can't Loose Them
+1072,Needs Attention
+1073,Can't Loose Them
+1074,Can't Loose Them
+1075,Champions
+1076,Can't Loose Them
+1077,Can't Loose Them
+1078,Loyal
+1079,Potential
+1080,Needs Attention
+1081,Can't Loose Them
+1083,Require Activation
+1084,Can't Loose Them
+1085,Needs Attention
+1086,Can't Loose Them
+1087,Potential
+1088,Can't Loose Them
+1089,Loyal
+1090,Champions
+1091,Can't Loose Them
+1093,Can't Loose Them
+1094,Can't Loose Them
+1095,Champions
+1096,Promising
+1097,Require Activation
+1098,Can't Loose Them
+1099,Require Activation
+1100,Promising
+1101,Potential
+1102,Can't Loose Them
+1103,Can't Loose Them
+1104,Can't Loose Them
+1105,Potential
+1106,Can't Loose Them
+1107,Promising
+1108,Potential
+1109,Require Activation
+1110,Can't Loose Them
+1111,Can't Loose Them
+1112,Require Activation
+1113,Can't Loose Them
+1114,Promising
+1115,Can't Loose Them
+1116,Loyal
+1117,Can't Loose Them
+1118,Promising
+1119,Champions
+1120,Loyal
+1121,Potential
+1122,Loyal
+1123,Can't Loose Them
+1124,Promising
+1125,Potential
+1126,Potential
+1127,Needs Attention
+1128,Loyal
+1129,Can't Loose Them
+1130,Potential
+1131,Can't Loose Them
+1132,Can't Loose Them
+1133,Loyal
+1134,Can't Loose Them
+1135,Require Activation
+1136,Loyal
+1137,Can't Loose Them
+1138,Loyal
+1139,Needs Attention
+1140,Can't Loose Them
+1141,Promising
+1142,Potential
+1143,Can't Loose Them
+1144,Can't Loose Them
+1145,Potential
+1146,Needs Attention
+1147,Champions
+1148,Potential
+1149,Needs Attention
+1150,Loyal
+1151,Potential
+1152,Can't Loose Them
+1153,Loyal
+1154,Promising
+1155,Champions
+1156,Loyal
+1157,Champions
+1158,Can't Loose Them
+1159,Loyal
+1160,Require Activation
+1161,Loyal
+1162,Needs Attention
+1163,Promising
+1164,Require Activation
+1165,Can't Loose Them
+1166,Can't Loose Them
+1167,Loyal
+1168,Can't Loose Them
+1169,Champions
+1170,Loyal
+1171,Can't Loose Them
+1172,Champions
+1173,Require Activation
+1175,Require Activation
+1176,Needs Attention
+1177,Can't Loose Them
+1178,Can't Loose Them
+1179,Champions
+1180,Needs Attention
+1181,Can't Loose Them
+1182,Can't Loose Them
+1183,Potential
+1184,Can't Loose Them
+1185,Potential
+1186,Champions
+1187,Needs Attention
+1188,Potential
+1189,Needs Attention
+1190,Can't Loose Them
+1191,Can't Loose Them
+1192,Potential
+1193,Potential
+1194,Can't Loose Them
+1195,Loyal
+1196,Can't Loose Them
+1197,Loyal
+1198,Champions
+1199,Can't Loose Them
+1200,Can't Loose Them
+1201,Needs Attention
+1202,Needs Attention
+1203,Potential
+1204,Require Activation
+1205,Can't Loose Them
+1206,Needs Attention
+1207,Champions
+1208,Loyal
+1209,Require Activation
+1211,Require Activation
+1212,Needs Attention
+1213,Can't Loose Them
+1214,Potential
+1215,Can't Loose Them
+1216,Potential
+1217,Can't Loose Them
+1218,Can't Loose Them
+1219,Potential
+1220,Potential
+1221,Can't Loose Them
+1222,Needs Attention
+1223,Loyal
+1224,Can't Loose Them
+1225,Promising
+1226,Loyal
+1227,Can't Loose Them
+1228,Require Activation
+1229,Can't Loose Them
+1230,Needs Attention
+1231,Require Activation
+1232,Can't Loose Them
+1233,Can't Loose Them
+1234,Champions
+1235,Promising
+1236,Loyal
+1237,Can't Loose Them
+1238,Require Activation
+1239,Champions
+1240,Loyal
+1241,Champions
+1242,Potential
+1243,Can't Loose Them
+1245,Champions
+1246,Require Activation
+1247,Needs Attention
+1248,Needs Attention
+1249,Potential
+1250,Can't Loose Them
+1251,Needs Attention
+1252,Can't Loose Them
+1253,Potential
+1254,Can't Loose Them
+1255,Needs Attention
+1256,Champions
+1257,Require Activation
+1258,Can't Loose Them
+1259,Can't Loose Them
+1260,Promising
+1261,Loyal
+1262,Potential
+1263,Champions
+1264,Champions
+1265,Loyal
+1266,Needs Attention
+1267,Promising
+1268,Needs Attention
+1269,Require Activation
+1270,Require Activation
+1271,Require Activation
+1272,Can't Loose Them
+1273,Promising
+1274,Can't Loose Them
+1275,Potential
+1276,Require Activation
+1277,Needs Attention
+1278,Potential
+1279,Champions
+1280,Needs Attention
+1281,Needs Attention
+1282,Can't Loose Them
+1283,Require Activation
+1284,Needs Attention
+1285,Champions
+1286,Champions
+1287,Can't Loose Them
+1288,Potential
+1289,Can't Loose Them
+1290,Can't Loose Them
+1291,Can't Loose Them
+1292,Champions
+1293,Potential
+1294,Require Activation
+1295,Champions
+1296,Promising
+1297,Can't Loose Them
+1298,Potential
+1299,Can't Loose Them
+1300,Can't Loose Them
+1301,Can't Loose Them
+1302,Can't Loose Them
+1303,Can't Loose Them
+1304,Can't Loose Them
+1305,Promising
+1306,Promising
+1307,Can't Loose Them
+1308,Can't Loose Them
+1309,Needs Attention
+1310,Loyal
+1311,Promising
+1312,Promising
+1313,Can't Loose Them
+1314,Loyal
+1315,Can't Loose Them
+1316,Loyal
+1317,Can't Loose Them
+1318,Can't Loose Them
+1319,Potential
+1320,Potential
+1321,Potential
+1322,Potential
+1323,Potential
+1324,Champions
+1325,Needs Attention
+1326,Can't Loose Them
+1327,Champions
+1328,Can't Loose Them
+1329,Can't Loose Them
+1330,Can't Loose Them
+1331,Can't Loose Them
+1332,Can't Loose Them
+1333,Potential
+1334,Require Activation
+1335,Champions
+1336,Champions
+1337,Champions
+1338,Require Activation
+1339,Potential
+1340,Can't Loose Them
+1341,Potential
+1342,Loyal
+1343,Promising
+1344,Promising
+1345,Can't Loose Them
+1346,Can't Loose Them
+1347,Loyal
+1348,Potential
+1349,Champions
+1350,Require Activation
+1352,Require Activation
+1353,Can't Loose Them
+1354,Needs Attention
+1355,Champions
+1356,Can't Loose Them
+1357,Can't Loose Them
+1358,Can't Loose Them
+1359,Potential
+1360,Require Activation
+1361,Can't Loose Them
+1362,Require Activation
+1363,Can't Loose Them
+1364,Needs Attention
+1365,Require Activation
+1366,Promising
+1367,Can't Loose Them
+1368,Champions
+1369,Needs Attention
+1370,Promising
+1371,Potential
+1372,Champions
+1374,Can't Loose Them
+1375,Loyal
+1376,Loyal
+1377,Potential
+1378,Can't Loose Them
+1379,Champions
+1380,Needs Attention
+1381,Potential
+1382,Require Activation
+1383,Promising
+1384,Can't Loose Them
+1385,Potential
+1386,Require Activation
+1387,Require Activation
+1388,Can't Loose Them
+1389,Can't Loose Them
+1390,Can't Loose Them
+1391,Needs Attention
+1392,Needs Attention
+1393,Promising
+1394,Needs Attention
+1395,Needs Attention
+1396,Can't Loose Them
+1397,Loyal
+1398,Can't Loose Them
+1399,Champions
+1400,Can't Loose Them
+1401,Needs Attention
+1402,Can't Loose Them
+1403,Require Activation
+1404,Can't Loose Them
+1405,Can't Loose Them
+1406,Champions
+1407,Can't Loose Them
+1408,Loyal
+1409,Loyal
+1410,Can't Loose Them
+1411,Can't Loose Them
+1412,Require Activation
+1413,Can't Loose Them
+1414,Potential
+1415,Promising
+1416,Require Activation
+1417,Can't Loose Them
+1418,Potential
+1419,Potential
+1420,Loyal
+1421,Loyal
+1422,Champions
+1423,Can't Loose Them
+1424,Needs Attention
+1425,Loyal
+1426,Champions
+1427,Potential
+1428,Can't Loose Them
+1429,Loyal
+1430,Promising
+1431,Promising
+1432,Champions
+1433,Require Activation
+1434,Require Activation
+1435,Can't Loose Them
+1436,Loyal
+1437,Require Activation
+1438,Can't Loose Them
+1439,Needs Attention
+1440,Can't Loose Them
+1441,Require Activation
+1442,Needs Attention
+1443,Can't Loose Them
+1444,Potential
+1445,Can't Loose Them
+1446,Can't Loose Them
+1447,Champions
+1448,Require Activation
+1449,Can't Loose Them
+1450,Can't Loose Them
+1451,Loyal
+1452,Can't Loose Them
+1453,Can't Loose Them
+1454,Champions
+1455,Promising
+1456,Potential
+1457,Champions
+1458,Needs Attention
+1459,Needs Attention
+1460,Can't Loose Them
+1461,Can't Loose Them
+1462,Promising
+1463,Promising
+1464,Potential
+1465,Require Activation
+1466,Promising
+1467,Can't Loose Them
+1468,Loyal
+1469,Loyal
+1470,Can't Loose Them
+1471,Loyal
+1472,Can't Loose Them
+1473,Can't Loose Them
+1474,Potential
+1475,Can't Loose Them
+1476,Promising
+1478,Can't Loose Them
+1479,Potential
+1480,Can't Loose Them
+1481,Can't Loose Them
+1482,Can't Loose Them
+1483,Can't Loose Them
+1484,Potential
+1485,Potential
+1486,Loyal
+1487,Potential
+1488,Promising
+1489,Needs Attention
+1490,Promising
+1491,Require Activation
+1492,Can't Loose Them
+1493,Can't Loose Them
+1494,Can't Loose Them
+1495,Potential
+1496,Loyal
+1497,Loyal
+1498,Promising
+1499,Potential
+1500,Can't Loose Them
+1501,Potential
+1502,Can't Loose Them
+1503,Can't Loose Them
+1504,Champions
+1505,Loyal
+1506,Can't Loose Them
+1507,Loyal
+1508,Potential
+1510,Needs Attention
+1511,Can't Loose Them
+1512,Needs Attention
+1513,Potential
+1514,Champions
+1515,Can't Loose Them
+1516,Loyal
+1517,Can't Loose Them
+1518,Needs Attention
+1519,Can't Loose Them
+1520,Needs Attention
+1521,Require Activation
+1522,Champions
+1523,Promising
+1524,Can't Loose Them
+1525,Promising
+1526,Potential
+1527,Can't Loose Them
+1528,Champions
+1529,Require Activation
+1530,Can't Loose Them
+1531,Can't Loose Them
+1532,Can't Loose Them
+1533,Champions
+1534,Champions
+1535,Potential
+1536,Potential
+1537,Can't Loose Them
+1538,Potential
+1539,Can't Loose Them
+1540,Can't Loose Them
+1541,Loyal
+1542,Promising
+1543,Needs Attention
+1544,Require Activation
+1545,Can't Loose Them
+1546,Champions
+1547,Can't Loose Them
+1548,Promising
+1549,Can't Loose Them
+1550,Champions
+1551,Can't Loose Them
+1552,Potential
+1553,Promising
+1554,Can't Loose Them
+1555,Loyal
+1556,Loyal
+1557,Can't Loose Them
+1558,Can't Loose Them
+1559,Can't Loose Them
+1560,Require Activation
+1561,Can't Loose Them
+1562,Needs Attention
+1563,Needs Attention
+1564,Potential
+1565,Potential
+1566,Needs Attention
+1567,Can't Loose Them
+1568,Promising
+1569,Needs Attention
+1570,Can't Loose Them
+1571,Champions
+1572,Can't Loose Them
+1573,Promising
+1574,Can't Loose Them
+1575,Promising
+1576,Can't Loose Them
+1577,Can't Loose Them
+1578,Can't Loose Them
+1579,Can't Loose Them
+1580,Can't Loose Them
+1581,Can't Loose Them
+1582,Potential
+1584,Potential
+1585,Can't Loose Them
+1586,Can't Loose Them
+1587,Potential
+1588,Can't Loose Them
+1589,Can't Loose Them
+1590,Promising
+1591,Can't Loose Them
+1592,Needs Attention
+1593,Champions
+1594,Can't Loose Them
+1595,Can't Loose Them
+1596,Needs Attention
+1597,Can't Loose Them
+1598,Potential
+1599,Can't Loose Them
+1600,Can't Loose Them
+1601,Promising
+1602,Can't Loose Them
+1603,Potential
+1604,Require Activation
+1605,Require Activation
+1606,Potential
+1607,Champions
+1608,Potential
+1609,Loyal
+1610,Can't Loose Them
+1611,Can't Loose Them
+1612,Needs Attention
+1613,Can't Loose Them
+1614,Loyal
+1615,Loyal
+1616,Can't Loose Them
+1617,Can't Loose Them
+1618,Promising
+1619,Can't Loose Them
+1620,Require Activation
+1621,Promising
+1622,Needs Attention
+1623,Can't Loose Them
+1624,Can't Loose Them
+1625,Can't Loose Them
+1626,Require Activation
+1627,Can't Loose Them
+1629,Can't Loose Them
+1630,Promising
+1631,Needs Attention
+1632,Require Activation
+1633,Loyal
+1634,Promising
+1635,Promising
+1636,Champions
+1637,Loyal
+1638,Loyal
+1639,Can't Loose Them
+1640,Loyal
+1641,Can't Loose Them
+1642,Potential
+1643,Can't Loose Them
+1644,Can't Loose Them
+1645,Potential
+1646,Can't Loose Them
+1647,Loyal
+1648,Loyal
+1649,Promising
+1650,Champions
+1651,Needs Attention
+1652,Loyal
+1653,Potential
+1654,Needs Attention
+1655,Potential
+1656,Champions
+1657,Potential
+1658,Require Activation
+1659,Can't Loose Them
+1660,Loyal
+1661,Champions
+1662,Promising
+1663,Can't Loose Them
+1664,Can't Loose Them
+1665,Champions
+1666,Promising
+1667,Can't Loose Them
+1668,Can't Loose Them
+1669,Champions
+1670,Can't Loose Them
+1671,Promising
+1672,Can't Loose Them
+1673,Require Activation
+1674,Promising
+1675,Needs Attention
+1676,Loyal
+1677,Can't Loose Them
+1678,Can't Loose Them
+1679,Needs Attention
+1680,Needs Attention
+1681,Can't Loose Them
+1682,Can't Loose Them
+1684,Can't Loose Them
+1685,Promising
+1686,Can't Loose Them
+1687,Potential
+1688,Can't Loose Them
+1689,Potential
+1690,Can't Loose Them
+1691,Can't Loose Them
+1692,Require Activation
+1693,Champions
+1694,Can't Loose Them
+1695,Champions
+1696,Can't Loose Them
+1697,Champions
+1698,Can't Loose Them
+1699,Champions
+1700,Loyal
+1701,Loyal
+1702,Can't Loose Them
+1703,Potential
+1704,Require Activation
+1705,Loyal
+1706,Can't Loose Them
+1707,Can't Loose Them
+1708,Promising
+1709,Champions
+1710,Promising
+1711,Can't Loose Them
+1712,Require Activation
+1713,Can't Loose Them
+1714,Champions
+1715,Require Activation
+1716,Require Activation
+1717,Needs Attention
+1718,Loyal
+1719,Loyal
+1720,Loyal
+1721,Can't Loose Them
+1722,Can't Loose Them
+1723,Champions
+1724,Require Activation
+1725,Can't Loose Them
+1726,Champions
+1727,Champions
+1728,Can't Loose Them
+1729,Loyal
+1730,Promising
+1731,Can't Loose Them
+1732,Promising
+1733,Potential
+1734,Promising
+1735,Promising
+1736,Can't Loose Them
+1737,Potential
+1738,Promising
+1739,Potential
+1741,Promising
+1742,Champions
+1743,Can't Loose Them
+1744,Require Activation
+1745,Can't Loose Them
+1746,Champions
+1747,Require Activation
+1748,Can't Loose Them
+1749,Needs Attention
+1750,Champions
+1751,Potential
+1752,Champions
+1753,Potential
+1754,Potential
+1755,Champions
+1756,Needs Attention
+1757,Require Activation
+1758,Can't Loose Them
+1759,Can't Loose Them
+1760,Can't Loose Them
+1761,Champions
+1762,Can't Loose Them
+1763,Can't Loose Them
+1764,Potential
+1765,Can't Loose Them
+1766,Needs Attention
+1767,Can't Loose Them
+1768,Require Activation
+1769,Champions
+1770,Can't Loose Them
+1771,Can't Loose Them
+1772,Needs Attention
+1774,Require Activation
+1775,Champions
+1776,Can't Loose Them
+1777,Champions
+1778,Require Activation
+1779,Champions
+1781,Potential
+1782,Can't Loose Them
+1783,Can't Loose Them
+1784,Promising
+1785,Champions
+1786,Require Activation
+1787,Can't Loose Them
+1788,Can't Loose Them
+1789,Needs Attention
+1790,Loyal
+1791,Loyal
+1792,Can't Loose Them
+1793,Champions
+1794,Potential
+1795,Can't Loose Them
+1796,Require Activation
+1797,Can't Loose Them
+1798,Can't Loose Them
+1799,Promising
+1800,Require Activation
+1801,Can't Loose Them
+1802,Can't Loose Them
+1803,Loyal
+1804,Potential
+1805,Require Activation
+1807,Champions
+1808,Can't Loose Them
+1809,Can't Loose Them
+1810,Potential
+1811,Can't Loose Them
+1812,Can't Loose Them
+1813,Can't Loose Them
+1814,Loyal
+1815,Champions
+1816,Potential
+1817,Can't Loose Them
+1818,Can't Loose Them
+1819,Require Activation
+1820,Can't Loose Them
+1821,Can't Loose Them
+1822,Loyal
+1823,Loyal
+1824,Can't Loose Them
+1825,Can't Loose Them
+1826,Can't Loose Them
+1827,Potential
+1828,Require Activation
+1829,Potential
+1830,Can't Loose Them
+1831,Champions
+1832,Can't Loose Them
+1833,Champions
+1834,Promising
+1835,Champions
+1836,Require Activation
+1837,Can't Loose Them
+1838,Loyal
+1839,Champions
+1840,Loyal
+1841,Potential
+1842,Potential
+1843,Needs Attention
+1844,Can't Loose Them
+1845,Can't Loose Them
+1846,Require Activation
+1847,Promising
+1848,Can't Loose Them
+1849,Loyal
+1850,Can't Loose Them
+1851,Require Activation
+1852,Potential
+1853,Can't Loose Them
+1854,Potential
+1855,Promising
+1856,Require Activation
+1857,Potential
+1858,Can't Loose Them
+1859,Loyal
+1860,Can't Loose Them
+1861,Can't Loose Them
+1862,Champions
+1863,Potential
+1864,Can't Loose Them
+1865,Require Activation
+1866,Can't Loose Them
+1867,Can't Loose Them
+1868,Can't Loose Them
+1869,Promising
+1870,Can't Loose Them
+1871,Require Activation
+1872,Promising
+1873,Champions
+1874,Needs Attention
+1875,Loyal
+1876,Loyal
+1877,Loyal
+1878,Can't Loose Them
+1879,Loyal
+1880,Loyal
+1881,Can't Loose Them
+1882,Loyal
+1883,Potential
+1884,Can't Loose Them
+1885,Can't Loose Them
+1886,Loyal
+1887,Can't Loose Them
+1888,Promising
+1889,Potential
+1890,Can't Loose Them
+1891,Can't Loose Them
+1892,Needs Attention
+1893,Can't Loose Them
+1894,Promising
+1895,Loyal
+1896,Require Activation
+1897,Loyal
+1898,Champions
+1899,Promising
+1900,Needs Attention
+1901,Champions
+1902,Potential
+1903,Champions
+1904,Needs Attention
+1905,Can't Loose Them
+1906,Can't Loose Them
+1907,Require Activation
+1908,Loyal
+1909,Loyal
+1910,Potential
+1911,Needs Attention
+1912,Can't Loose Them
+1913,Can't Loose Them
+1914,Can't Loose Them
+1915,Potential
+1916,Champions
+1917,Can't Loose Them
+1919,Promising
+1920,Needs Attention
+1921,Promising
+1922,Require Activation
+1923,Potential
+1924,Potential
+1925,Can't Loose Them
+1926,Can't Loose Them
+1927,Potential
+1928,Promising
+1929,Loyal
+1930,Champions
+1931,Promising
+1932,Can't Loose Them
+1933,Can't Loose Them
+1934,Can't Loose Them
+1935,Champions
+1936,Can't Loose Them
+1937,Can't Loose Them
+1939,Needs Attention
+1940,Potential
+1941,Loyal
+1942,Can't Loose Them
+1943,Require Activation
+1944,Champions
+1945,Require Activation
+1946,Can't Loose Them
+1947,Can't Loose Them
+1948,Promising
+1949,Can't Loose Them
+1950,Can't Loose Them
+1951,Champions
+1952,Can't Loose Them
+1953,Can't Loose Them
+1954,Can't Loose Them
+1955,Needs Attention
+1956,Promising
+1957,Can't Loose Them
+1958,Needs Attention
+1959,Champions
+1960,Promising
+1961,Potential
+1962,Require Activation
+1963,Potential
+1964,Champions
+1965,Champions
+1966,Promising
+1967,Champions
+1968,Promising
+1969,Can't Loose Them
+1970,Can't Loose Them
+1971,Can't Loose Them
+1972,Loyal
+1973,Promising
+1974,Potential
+1975,Require Activation
+1976,Loyal
+1977,Needs Attention
+1978,Potential
+1979,Can't Loose Them
+1980,Can't Loose Them
+1981,Needs Attention
+1982,Can't Loose Them
+1983,Loyal
+1984,Can't Loose Them
+1985,Can't Loose Them
+1986,Champions
+1987,Promising
+1988,Can't Loose Them
+1989,Potential
+1991,Can't Loose Them
+1992,Can't Loose Them
+1993,Can't Loose Them
+1994,Can't Loose Them
+1995,Potential
+1996,Can't Loose Them
+1997,Potential
+1998,Needs Attention
+1999,Can't Loose Them
+2001,Can't Loose Them
+2002,Require Activation
+2003,Require Activation
+2004,Loyal
+2005,Can't Loose Them
+2006,Potential
+2007,Potential
+2008,Can't Loose Them
+2009,Can't Loose Them
+2010,Loyal
+2011,Require Activation
+2012,Champions
+2013,Can't Loose Them
+2014,Loyal
+2015,Champions
+2016,Champions
+2017,Champions
+2018,Can't Loose Them
+2019,Can't Loose Them
+2020,Can't Loose Them
+2022,Champions
+2023,Can't Loose Them
+2024,Can't Loose Them
+2025,Needs Attention
+2026,Promising
+2027,Can't Loose Them
+2028,Can't Loose Them
+2029,Can't Loose Them
+2030,Promising
+2031,Potential
+2032,Potential
+2033,Can't Loose Them
+2034,Loyal
+2035,Require Activation
+2036,Can't Loose Them
+2037,Needs Attention
+2038,Loyal
+2039,Promising
+2040,Require Activation
+2041,Champions
+2042,Loyal
+2043,Potential
+2044,Can't Loose Them
+2045,Can't Loose Them
+2046,Can't Loose Them
+2047,Require Activation
+2048,Can't Loose Them
+2049,Champions
+2050,Loyal
+2051,Champions
+2052,Can't Loose Them
+2053,Can't Loose Them
+2054,Loyal
+2055,Can't Loose Them
+2056,Needs Attention
+2057,Can't Loose Them
+2058,Loyal
+2059,Require Activation
+2060,Can't Loose Them
+2061,Champions
+2062,Champions
+2063,Champions
+2064,Potential
+2065,Needs Attention
+2066,Potential
+2067,Can't Loose Them
+2068,Promising
+2070,Can't Loose Them
+2071,Champions
+2072,Can't Loose Them
+2073,Can't Loose Them
+2075,Loyal
+2076,Can't Loose Them
+2077,Needs Attention
+2078,Champions
+2079,Loyal
+2080,Loyal
+2081,Champions
+2082,Can't Loose Them
+2083,Can't Loose Them
+2084,Require Activation
+2085,Potential
+2086,Require Activation
+2087,Loyal
+2088,Can't Loose Them
+2089,Require Activation
+2090,Require Activation
+2091,Needs Attention
+2092,Can't Loose Them
+2093,Champions
+2094,Loyal
+2095,Can't Loose Them
+2096,Loyal
+2097,Can't Loose Them
+2098,Can't Loose Them
+2099,Can't Loose Them
+2100,Champions
+2101,Can't Loose Them
+2102,Can't Loose Them
+2103,Can't Loose Them
+2104,Can't Loose Them
+2105,Champions
+2106,Champions
+2107,Needs Attention
+2108,Potential
+2109,Can't Loose Them
+2110,Can't Loose Them
+2111,Can't Loose Them
+2112,Champions
+2113,Potential
+2114,Can't Loose Them
+2115,Needs Attention
+2116,Needs Attention
+2117,Potential
+2118,Loyal
+2119,Promising
+2120,Can't Loose Them
+2121,Can't Loose Them
+2122,Potential
+2123,Loyal
+2124,Champions
+2125,Can't Loose Them
+2126,Promising
+2127,Loyal
+2128,Potential
+2129,Require Activation
+2130,Can't Loose Them
+2131,Promising
+2132,Can't Loose Them
+2133,Potential
+2134,Loyal
+2135,Require Activation
+2136,Champions
+2137,Potential
+2138,Can't Loose Them
+2139,Loyal
+2140,Can't Loose Them
+2141,Promising
+2142,Can't Loose Them
+2143,Potential
+2144,Can't Loose Them
+2145,Require Activation
+2146,Needs Attention
+2147,Require Activation
+2148,Needs Attention
+2149,Can't Loose Them
+2150,Loyal
+2151,Champions
+2152,Can't Loose Them
+2153,Champions
+2154,Can't Loose Them
+2155,Can't Loose Them
+2156,Loyal
+2157,Require Activation
+2158,Loyal
+2159,Champions
+2160,Champions
+2161,Loyal
+2162,Promising
+2163,Needs Attention
+2164,Can't Loose Them
+2166,Champions
+2167,Potential
+2168,Potential
+2169,Loyal
+2170,Can't Loose Them
+2171,Champions
+2172,Loyal
+2173,Needs Attention
+2174,Loyal
+2175,Promising
+2176,Promising
+2177,Potential
+2178,Needs Attention
+2179,Can't Loose Them
+2180,Loyal
+2181,Can't Loose Them
+2182,Can't Loose Them
+2183,Can't Loose Them
+2184,Can't Loose Them
+2185,Champions
+2186,Needs Attention
+2187,Can't Loose Them
+2188,Champions
+2189,Can't Loose Them
+2190,Can't Loose Them
+2191,Can't Loose Them
+2192,Promising
+2193,Potential
+2194,Can't Loose Them
+2195,Can't Loose Them
+2196,Potential
+2197,Require Activation
+2198,Promising
+2199,Potential
+2200,Require Activation
+2201,Can't Loose Them
+2202,Can't Loose Them
+2203,Loyal
+2204,Can't Loose Them
+2206,Promising
+2207,Champions
+2208,Potential
+2209,Require Activation
+2210,Can't Loose Them
+2211,Require Activation
+2212,Champions
+2213,Can't Loose Them
+2214,Loyal
+2215,Promising
+2216,Needs Attention
+2217,Can't Loose Them
+2218,Potential
+2219,Loyal
+2220,Promising
+2221,Can't Loose Them
+2222,Champions
+2223,Champions
+2224,Require Activation
+2225,Needs Attention
+2226,Can't Loose Them
+2227,Loyal
+2228,Require Activation
+2229,Promising
+2230,Can't Loose Them
+2231,Promising
+2232,Loyal
+2233,Champions
+2234,Potential
+2235,Champions
+2236,Loyal
+2237,Can't Loose Them
+2238,Needs Attention
+2239,Promising
+2240,Can't Loose Them
+2241,Loyal
+2242,Require Activation
+2243,Require Activation
+2244,Loyal
+2245,Champions
+2246,Require Activation
+2247,Can't Loose Them
+2248,Can't Loose Them
+2249,Promising
+2250,Require Activation
+2251,Can't Loose Them
+2253,Champions
+2254,Champions
+2255,Require Activation
+2256,Needs Attention
+2257,Loyal
+2258,Champions
+2259,Needs Attention
+2260,Can't Loose Them
+2261,Promising
+2262,Needs Attention
+2263,Champions
+2264,Potential
+2265,Require Activation
+2266,Can't Loose Them
+2267,Promising
+2268,Can't Loose Them
+2269,Can't Loose Them
+2270,Potential
+2271,Require Activation
+2272,Champions
+2273,Can't Loose Them
+2274,Needs Attention
+2275,Champions
+2276,Loyal
+2277,Potential
+2278,Promising
+2279,Can't Loose Them
+2280,Champions
+2281,Can't Loose Them
+2282,Can't Loose Them
+2283,Can't Loose Them
+2284,Can't Loose Them
+2285,Champions
+2286,Potential
+2287,Require Activation
+2288,Can't Loose Them
+2289,Promising
+2290,Potential
+2291,Require Activation
+2292,Can't Loose Them
+2293,Potential
+2294,Can't Loose Them
+2296,Potential
+2297,Champions
+2298,Can't Loose Them
+2299,Loyal
+2300,Champions
+2301,Can't Loose Them
+2302,Promising
+2303,Require Activation
+2304,Can't Loose Them
+2305,Loyal
+2306,Loyal
+2307,Can't Loose Them
+2308,Can't Loose Them
+2309,Can't Loose Them
+2310,Can't Loose Them
+2311,Loyal
+2312,Champions
+2313,Champions
+2314,Promising
+2315,Needs Attention
+2316,Needs Attention
+2317,Loyal
+2318,Can't Loose Them
+2319,Champions
+2320,Promising
+2321,Needs Attention
+2322,Needs Attention
+2323,Needs Attention
+2324,Promising
+2325,Potential
+2326,Require Activation
+2327,Needs Attention
+2328,Require Activation
+2329,Champions
+2330,Potential
+2331,Champions
+2332,Promising
+2333,Needs Attention
+2334,Needs Attention
+2336,Can't Loose Them
+2337,Require Activation
+2338,Can't Loose Them
+2339,Can't Loose Them
+2340,Can't Loose Them
+2342,Needs Attention
+2343,Promising
+2344,Champions
+2345,Champions
+2346,Potential
+2347,Can't Loose Them
+2348,Needs Attention
+2349,Promising
+2350,Require Activation
+2351,Champions
+2352,Promising
+2353,Can't Loose Them
+2354,Loyal
+2355,Potential
+2356,Needs Attention
+2357,Potential
+2358,Can't Loose Them
+2359,Can't Loose Them
+2360,Can't Loose Them
+2361,Can't Loose Them
+2362,Promising
+2363,Loyal
+2364,Can't Loose Them
+2365,Champions
+2366,Loyal
+2367,Can't Loose Them
+2368,Champions
+2369,Can't Loose Them
+2370,Promising
+2371,Potential
+2372,Can't Loose Them
+2373,Potential
+2374,Can't Loose Them
+2375,Can't Loose Them
+2376,Potential
+2377,Can't Loose Them
+2378,Champions
+2379,Can't Loose Them
+2380,Can't Loose Them
+2381,Can't Loose Them
+2382,Loyal
+2383,Can't Loose Them
+2384,Loyal
+2385,Can't Loose Them
+2386,Can't Loose Them
+2387,Require Activation
+2388,Champions
+2389,Potential
+2390,Can't Loose Them
+2391,Can't Loose Them
+2392,Loyal
+2393,Require Activation
+2394,Require Activation
+2395,Needs Attention
+2396,Loyal
+2397,Can't Loose Them
+2398,Require Activation
+2399,Can't Loose Them
+2400,Can't Loose Them
+2401,Can't Loose Them
+2402,Promising
+2403,Needs Attention
+2404,Potential
+2405,Potential
+2406,Promising
+2407,Potential
+2408,Promising
+2409,Champions
+2410,Can't Loose Them
+2411,Promising
+2412,Can't Loose Them
+2415,Loyal
+2416,Require Activation
+2417,Promising
+2418,Can't Loose Them
+2419,Can't Loose Them
+2420,Require Activation
+2421,Champions
+2422,Loyal
+2423,Needs Attention
+2424,Loyal
+2425,Can't Loose Them
+2427,Can't Loose Them
+2428,Can't Loose Them
+2429,Require Activation
+2430,Require Activation
+2431,Require Activation
+2432,Potential
+2433,Can't Loose Them
+2434,Can't Loose Them
+2435,Potential
+2436,Potential
+2437,Require Activation
+2438,Can't Loose Them
+2439,Can't Loose Them
+2440,Promising
+2441,Promising
+2442,Loyal
+2443,Can't Loose Them
+2444,Potential
+2445,Champions
+2446,Can't Loose Them
+2447,Can't Loose Them
+2448,Can't Loose Them
+2449,Loyal
+2450,Promising
+2451,Potential
+2452,Loyal
+2453,Loyal
+2454,Can't Loose Them
+2455,Can't Loose Them
+2456,Promising
+2457,Can't Loose Them
+2458,Can't Loose Them
+2459,Can't Loose Them
+2460,Promising
+2461,Champions
+2462,Champions
+2463,Can't Loose Them
+2464,Can't Loose Them
+2465,Can't Loose Them
+2466,Loyal
+2467,Potential
+2468,Can't Loose Them
+2470,Potential
+2471,Champions
+2472,Champions
+2473,Promising
+2474,Champions
+2475,Can't Loose Them
+2476,Can't Loose Them
+2477,Promising
+2478,Potential
+2479,Champions
+2480,Champions
+2481,Champions
+2482,Require Activation
+2483,Promising
+2484,Loyal
+2485,Champions
+2486,Require Activation
+2487,Require Activation
+2488,Can't Loose Them
+2489,Can't Loose Them
+2490,Potential
+2491,Needs Attention
+2492,Can't Loose Them
+2493,Needs Attention
+2494,Loyal
+2495,Can't Loose Them
+2496,Needs Attention
+2497,Promising
+2498,Can't Loose Them
+2499,Require Activation
+2500,Promising
+2501,Can't Loose Them
+2502,Champions
+2503,Needs Attention
+2504,Promising
+2505,Can't Loose Them
+2506,Needs Attention
+2507,Promising
+2508,Can't Loose Them
+2509,Can't Loose Them
+2510,Champions
+2511,Potential
+2512,Potential
+2513,Champions
+2514,Promising
+2515,Potential
+2516,Needs Attention
+2517,Needs Attention
+2518,Loyal
+2519,Require Activation
+2520,Champions
+2521,Require Activation
+2522,Can't Loose Them
+2523,Can't Loose Them
+2524,Potential
+2525,Require Activation
+2526,Champions
+2527,Can't Loose Them
+2528,Can't Loose Them
+2529,Champions
+2530,Champions
+2531,Can't Loose Them
+2532,Require Activation
+2533,Loyal
+2534,Can't Loose Them
+2535,Can't Loose Them
+2536,Can't Loose Them
+2537,Can't Loose Them
+2538,Can't Loose Them
+2539,Loyal
+2541,Promising
+2542,Can't Loose Them
+2543,Potential
+2544,Can't Loose Them
+2545,Require Activation
+2546,Promising
+2547,Require Activation
+2548,Can't Loose Them
+2549,Potential
+2550,Can't Loose Them
+2551,Needs Attention
+2552,Can't Loose Them
+2553,Require Activation
+2554,Potential
+2555,Can't Loose Them
+2556,Potential
+2557,Potential
+2558,Potential
+2559,Champions
+2560,Can't Loose Them
+2561,Champions
+2562,Champions
+2563,Potential
+2564,Promising
+2565,Can't Loose Them
+2566,Can't Loose Them
+2567,Potential
+2568,Needs Attention
+2569,Can't Loose Them
+2570,Can't Loose Them
+2571,Promising
+2572,Can't Loose Them
+2573,Loyal
+2574,Can't Loose Them
+2575,Champions
+2576,Can't Loose Them
+2577,Potential
+2578,Potential
+2579,Needs Attention
+2580,Can't Loose Them
+2581,Potential
+2582,Potential
+2583,Needs Attention
+2584,Potential
+2585,Can't Loose Them
+2586,Promising
+2587,Can't Loose Them
+2588,Needs Attention
+2589,Potential
+2590,Can't Loose Them
+2591,Can't Loose Them
+2592,Can't Loose Them
+2593,Needs Attention
+2594,Champions
+2595,Can't Loose Them
+2596,Loyal
+2597,Can't Loose Them
+2598,Loyal
+2599,Loyal
+2600,Needs Attention
+2601,Can't Loose Them
+2602,Can't Loose Them
+2603,Can't Loose Them
+2604,Champions
+2605,Potential
+2606,Can't Loose Them
+2607,Can't Loose Them
+2608,Can't Loose Them
+2609,Loyal
+2610,Can't Loose Them
+2611,Can't Loose Them
+2612,Require Activation
+2613,Promising
+2614,Loyal
+2615,Can't Loose Them
+2616,Can't Loose Them
+2617,Champions
+2618,Can't Loose Them
+2619,Needs Attention
+2620,Can't Loose Them
+2621,Can't Loose Them
+2622,Can't Loose Them
+2623,Loyal
+2624,Potential
+2625,Needs Attention
+2626,Potential
+2627,Can't Loose Them
+2628,Needs Attention
+2629,Can't Loose Them
+2630,Can't Loose Them
+2631,Promising
+2632,Champions
+2633,Can't Loose Them
+2634,Require Activation
+2635,Can't Loose Them
+2636,Promising
+2637,Can't Loose Them
+2638,Can't Loose Them
+2639,Champions
+2640,Can't Loose Them
+2641,Can't Loose Them
+2643,Needs Attention
+2644,Needs Attention
+2645,Champions
+2646,Promising
+2648,Champions
+2649,Promising
+2650,Champions
+2651,Can't Loose Them
+2652,Champions
+2653,Can't Loose Them
+2654,Can't Loose Them
+2655,Champions
+2656,Champions
+2657,Require Activation
+2658,Potential
+2659,Can't Loose Them
+2661,Champions
+2662,Can't Loose Them
+2663,Potential
+2664,Loyal
+2665,Potential
+2666,Needs Attention
+2667,Promising
+2668,Promising
+2669,Needs Attention
+2670,Needs Attention
+2671,Champions
+2672,Can't Loose Them
+2673,Promising
+2674,Champions
+2675,Promising
+2676,Can't Loose Them
+2677,Loyal
+2678,Promising
+2679,Loyal
+2680,Can't Loose Them
+2681,Potential
+2682,Can't Loose Them
+2683,Can't Loose Them
+2684,Can't Loose Them
+2685,Champions
+2686,Can't Loose Them
+2687,Can't Loose Them
+2688,Require Activation
+2689,Loyal
+2690,Promising
+2691,Can't Loose Them
+2692,Promising
+2693,Can't Loose Them
+2694,Promising
+2695,Can't Loose Them
+2698,Can't Loose Them
+2699,Promising
+2700,Promising
+2701,Can't Loose Them
+2702,Can't Loose Them
+2703,Can't Loose Them
+2704,Require Activation
+2705,Can't Loose Them
+2706,Require Activation
+2707,Promising
+2708,Potential
+2709,Loyal
+2710,Potential
+2711,Champions
+2712,Can't Loose Them
+2713,Potential
+2714,Champions
+2715,Potential
+2716,Needs Attention
+2717,Can't Loose Them
+2718,Loyal
+2719,Potential
+2720,Require Activation
+2721,Require Activation
+2722,Loyal
+2723,Can't Loose Them
+2724,Needs Attention
+2725,Require Activation
+2726,Can't Loose Them
+2727,Champions
+2728,Can't Loose Them
+2729,Can't Loose Them
+2730,Can't Loose Them
+2731,Potential
+2732,Can't Loose Them
+2733,Can't Loose Them
+2734,Needs Attention
+2735,Require Activation
+2736,Loyal
+2737,Can't Loose Them
+2738,Potential
+2739,Require Activation
+2740,Can't Loose Them
+2741,Promising
+2742,Require Activation
+2743,Needs Attention
+2744,Require Activation
+2745,Require Activation
+2746,Potential
+2747,Can't Loose Them
+2748,Potential
+2749,Promising
+2750,Can't Loose Them
+2751,Can't Loose Them
+2752,Loyal
+2753,Can't Loose Them
+2754,Needs Attention
+2755,Can't Loose Them
+2756,Needs Attention
+2757,Require Activation
+2758,Needs Attention
+2759,Promising
+2760,Potential
+2761,Can't Loose Them
+2762,Can't Loose Them
+2763,Can't Loose Them
+2764,Needs Attention
+2765,Can't Loose Them
+2766,Can't Loose Them
+2767,Needs Attention
+2768,Can't Loose Them
+2769,Can't Loose Them
+2770,Can't Loose Them
+2771,Can't Loose Them
+2772,Loyal
+2773,Loyal
+2774,Potential
+2775,Can't Loose Them
+2776,Needs Attention
+2777,Loyal
+2778,Champions
+2779,Can't Loose Them
+2780,Can't Loose Them
+2781,Promising
+2782,Promising
+2783,Can't Loose Them
+2784,Needs Attention
+2785,Can't Loose Them
+2786,Can't Loose Them
+2787,Can't Loose Them
+2788,Can't Loose Them
+2789,Promising
+2790,Needs Attention
+2791,Can't Loose Them
+2792,Needs Attention
+2793,Can't Loose Them
+2794,Can't Loose Them
+2795,Require Activation
+2796,Can't Loose Them
+2797,Loyal
+2798,Needs Attention
+2799,Can't Loose Them
+2800,Potential
+2801,Potential
+2802,Require Activation
+2803,Can't Loose Them
+2804,Champions
+2805,Can't Loose Them
+2806,Can't Loose Them
+2807,Require Activation
+2808,Can't Loose Them
+2809,Needs Attention
+2810,Potential
+2811,Loyal
+2812,Can't Loose Them
+2813,Needs Attention
+2814,Loyal
+2815,Can't Loose Them
+2816,Can't Loose Them
+2817,Loyal
+2818,Needs Attention
+2819,Needs Attention
+2820,Can't Loose Them
+2821,Potential
+2822,Can't Loose Them
+2823,Potential
+2824,Champions
+2825,Needs Attention
+2826,Can't Loose Them
+2827,Promising
+2828,Require Activation
+2829,Require Activation
+2830,Promising
+2831,Champions
+2832,Can't Loose Them
+2833,Can't Loose Them
+2834,Needs Attention
+2835,Require Activation
+2836,Can't Loose Them
+2837,Can't Loose Them
+2838,Potential
+2839,Can't Loose Them
+2840,Potential
+2841,Can't Loose Them
+2842,Promising
+2843,Can't Loose Them
+2844,Can't Loose Them
+2845,Can't Loose Them
+2846,Potential
+2847,Can't Loose Them
+2848,Loyal
+2849,Needs Attention
+2850,Can't Loose Them
+2851,Can't Loose Them
+2852,Can't Loose Them
+2853,Can't Loose Them
+2855,Promising
+2856,Can't Loose Them
+2857,Champions
+2858,Promising
+2859,Can't Loose Them
+2860,Can't Loose Them
+2861,Can't Loose Them
+2862,Champions
+2863,Require Activation
+2864,Loyal
+2865,Can't Loose Them
+2866,Promising
+2867,Needs Attention
+2868,Promising
+2869,Loyal
+2870,Require Activation
+2871,Champions
+2872,Can't Loose Them
+2873,Require Activation
+2874,Can't Loose Them
+2875,Loyal
+2877,Can't Loose Them
+2878,Potential
+2879,Can't Loose Them
+2880,Can't Loose Them
+2881,Champions
+2882,Require Activation
+2883,Can't Loose Them
+2884,Can't Loose Them
+2885,Can't Loose Them
+2886,Can't Loose Them
+2887,Can't Loose Them
+2888,Can't Loose Them
+2889,Potential
+2890,Can't Loose Them
+2891,Can't Loose Them
+2892,Can't Loose Them
+2893,Promising
+2894,Can't Loose Them
+2895,Require Activation
+2896,Require Activation
+2897,Potential
+2898,Promising
+2899,Can't Loose Them
+2900,Promising
+2901,Can't Loose Them
+2902,Require Activation
+2903,Promising
+2904,Champions
+2905,Potential
+2906,Potential
+2907,Can't Loose Them
+2908,Champions
+2909,Champions
+2910,Loyal
+2911,Require Activation
+2912,Can't Loose Them
+2913,Potential
+2914,Can't Loose Them
+2915,Can't Loose Them
+2916,Can't Loose Them
+2917,Potential
+2918,Can't Loose Them
+2919,Champions
+2921,Potential
+2922,Champions
+2923,Can't Loose Them
+2924,Champions
+2925,Promising
+2926,Require Activation
+2927,Needs Attention
+2928,Potential
+2929,Can't Loose Them
+2930,Loyal
+2931,Loyal
+2932,Can't Loose Them
+2933,Promising
+2934,Champions
+2935,Can't Loose Them
+2936,Can't Loose Them
+2937,Can't Loose Them
+2938,Potential
+2939,Require Activation
+2940,Loyal
+2941,Promising
+2942,Can't Loose Them
+2943,Champions
+2944,Champions
+2945,Needs Attention
+2946,Can't Loose Them
+2947,Champions
+2948,Promising
+2949,Potential
+2950,Needs Attention
+2951,Can't Loose Them
+2952,Champions
+2953,Loyal
+2954,Champions
+2955,Can't Loose Them
+2956,Potential
+2957,Require Activation
+2958,Can't Loose Them
+2959,Require Activation
+2960,Needs Attention
+2961,Can't Loose Them
+2962,Needs Attention
+2964,Require Activation
+2965,Loyal
+2966,Loyal
+2967,Loyal
+2968,Potential
+2969,Can't Loose Them
+2970,Require Activation
+2971,Promising
+2972,Needs Attention
+2973,Require Activation
+2974,Require Activation
+2975,Needs Attention
+2976,Champions
+2977,Champions
+2978,Require Activation
+2979,Require Activation
+2980,Can't Loose Them
+2981,Potential
+2982,Champions
+2983,Potential
+2984,Promising
+2985,Can't Loose Them
+2986,Can't Loose Them
+2987,Promising
+2988,Can't Loose Them
+2989,Can't Loose Them
+2990,Can't Loose Them
+2991,Loyal
+2992,Can't Loose Them
+2993,Can't Loose Them
+2994,Potential
+2995,Champions
+2996,Potential
+2997,Champions
+2998,Promising
+3000,Potential
+3001,Needs Attention
+3002,Champions
+3003,Champions
+3004,Promising
+3005,Require Activation
+3006,Loyal
+3007,Can't Loose Them
+3008,Can't Loose Them
+3009,Needs Attention
+3010,Promising
+3011,Promising
+3013,Can't Loose Them
+3014,Can't Loose Them
+3015,Can't Loose Them
+3016,Can't Loose Them
+3017,Needs Attention
+3018,Potential
+3019,Promising
+3020,Can't Loose Them
+3021,Champions
+3022,Potential
+3023,Require Activation
+3024,Needs Attention
+3025,Require Activation
+3026,Promising
+3027,Potential
+3028,Promising
+3029,Needs Attention
+3030,Champions
+3031,Can't Loose Them
+3032,Can't Loose Them
+3033,Require Activation
+3034,Potential
+3035,Loyal
+3036,Loyal
+3037,Require Activation
+3038,Loyal
+3039,Can't Loose Them
+3040,Require Activation
+3041,Require Activation
+3042,Can't Loose Them
+3043,Loyal
+3044,Can't Loose Them
+3045,Loyal
+3046,Promising
+3047,Champions
+3048,Can't Loose Them
+3049,Promising
+3050,Can't Loose Them
+3051,Needs Attention
+3052,Needs Attention
+3053,Require Activation
+3054,Can't Loose Them
+3055,Can't Loose Them
+3056,Potential
+3057,Can't Loose Them
+3058,Can't Loose Them
+3059,Require Activation
+3060,Can't Loose Them
+3061,Can't Loose Them
+3062,Champions
+3063,Require Activation
+3064,Champions
+3065,Champions
+3066,Require Activation
+3067,Can't Loose Them
+3068,Loyal
+3069,Needs Attention
+3070,Require Activation
+3071,Require Activation
+3072,Champions
+3073,Require Activation
+3074,Can't Loose Them
+3075,Loyal
+3076,Needs Attention
+3077,Can't Loose Them
+3078,Require Activation
+3079,Require Activation
+3080,Can't Loose Them
+3081,Champions
+3082,Champions
+3083,Loyal
+3084,Can't Loose Them
+3085,Promising
+3087,Champions
+3088,Can't Loose Them
+3089,Loyal
+3090,Potential
+3091,Require Activation
+3092,Require Activation
+3093,Can't Loose Them
+3094,Loyal
+3095,Champions
+3096,Loyal
+3097,Needs Attention
+3098,Potential
+3099,Needs Attention
+3100,Potential
+3101,Needs Attention
+3102,Promising
+3103,Can't Loose Them
+3104,Potential
+3105,Can't Loose Them
+3106,Require Activation
+3107,Require Activation
+3108,Can't Loose Them
+3109,Potential
+3110,Potential
+3111,Needs Attention
+3112,Can't Loose Them
+3113,Can't Loose Them
+3114,Loyal
+3115,Potential
+3116,Promising
+3117,Can't Loose Them
+3118,Can't Loose Them
+3119,Loyal
+3120,Can't Loose Them
+3121,Champions
+3122,Needs Attention
+3123,Potential
+3124,Promising
+3125,Loyal
+3126,Can't Loose Them
+3127,Potential
+3128,Promising
+3129,Can't Loose Them
+3130,Can't Loose Them
+3131,Can't Loose Them
+3132,Loyal
+3133,Can't Loose Them
+3134,Can't Loose Them
+3135,Loyal
+3136,Potential
+3137,Potential
+3138,Promising
+3139,Potential
+3140,Promising
+3141,Potential
+3142,Potential
+3143,Can't Loose Them
+3144,Needs Attention
+3145,Champions
+3146,Can't Loose Them
+3147,Can't Loose Them
+3148,Champions
+3149,Promising
+3150,Potential
+3152,Can't Loose Them
+3153,Loyal
+3154,Can't Loose Them
+3155,Promising
+3156,Potential
+3157,Can't Loose Them
+3158,Can't Loose Them
+3159,Promising
+3160,Promising
+3161,Needs Attention
+3162,Require Activation
+3163,Can't Loose Them
+3164,Potential
+3165,Can't Loose Them
+3166,Can't Loose Them
+3167,Needs Attention
+3168,Promising
+3169,Can't Loose Them
+3170,Can't Loose Them
+3171,Needs Attention
+3172,Needs Attention
+3173,Can't Loose Them
+3174,Champions
+3175,Require Activation
+3176,Can't Loose Them
+3177,Loyal
+3178,Champions
+3179,Require Activation
+3180,Require Activation
+3181,Can't Loose Them
+3182,Needs Attention
+3183,Can't Loose Them
+3184,Can't Loose Them
+3185,Can't Loose Them
+3186,Champions
+3187,Potential
+3188,Needs Attention
+3189,Needs Attention
+3190,Loyal
+3191,Can't Loose Them
+3192,Needs Attention
+3193,Can't Loose Them
+3194,Needs Attention
+3195,Can't Loose Them
+3196,Champions
+3197,Champions
+3198,Needs Attention
+3199,Can't Loose Them
+3200,Loyal
+3201,Can't Loose Them
+3202,Can't Loose Them
+3203,Loyal
+3204,Can't Loose Them
+3205,Loyal
+3206,Champions
+3207,Promising
+3208,Can't Loose Them
+3209,Potential
+3210,Loyal
+3211,Promising
+3212,Champions
+3213,Potential
+3214,Promising
+3215,Can't Loose Them
+3216,Potential
+3217,Can't Loose Them
+3218,Promising
+3219,Can't Loose Them
+3220,Can't Loose Them
+3221,Can't Loose Them
+3224,Can't Loose Them
+3225,Can't Loose Them
+3226,Promising
+3227,Can't Loose Them
+3228,Can't Loose Them
+3230,Potential
+3231,Can't Loose Them
+3232,Can't Loose Them
+3233,Needs Attention
+3234,Require Activation
+3235,Require Activation
+3237,Champions
+3238,Potential
+3239,Can't Loose Them
+3240,Can't Loose Them
+3241,Can't Loose Them
+3242,Can't Loose Them
+3243,Require Activation
+3244,Promising
+3245,Potential
+3246,Potential
+3247,Can't Loose Them
+3248,Needs Attention
+3249,Can't Loose Them
+3250,Loyal
+3251,Can't Loose Them
+3252,Can't Loose Them
+3253,Loyal
+3254,Can't Loose Them
+3256,Can't Loose Them
+3257,Loyal
+3258,Can't Loose Them
+3259,Promising
+3260,Require Activation
+3261,Champions
+3262,Can't Loose Them
+3263,Loyal
+3264,Can't Loose Them
+3265,Promising
+3266,Champions
+3267,Loyal
+3268,Champions
+3269,Potential
+3270,Potential
+3271,Require Activation
+3272,Require Activation
+3273,Can't Loose Them
+3274,Potential
+3275,Potential
+3276,Loyal
+3277,Champions
+3278,Loyal
+3279,Require Activation
+3280,Can't Loose Them
+3281,Needs Attention
+3282,Loyal
+3283,Can't Loose Them
+3284,Loyal
+3285,Can't Loose Them
+3286,Can't Loose Them
+3287,Needs Attention
+3289,Loyal
+3290,Can't Loose Them
+3291,Needs Attention
+3292,Require Activation
+3293,Champions
+3294,Potential
+3295,Can't Loose Them
+3296,Can't Loose Them
+3297,Loyal
+3299,Loyal
+3300,Can't Loose Them
+3301,Loyal
+3302,Promising
+3303,Loyal
+3304,Can't Loose Them
+3305,Promising
+3306,Champions
+3307,Can't Loose Them
+3308,Needs Attention
+3309,Loyal
+3310,Potential
+3311,Needs Attention
+3313,Champions
+3314,Champions
+3315,Can't Loose Them
+3316,Promising
+3317,Needs Attention
+3318,Needs Attention
+3319,Can't Loose Them
+3320,Can't Loose Them
+3321,Require Activation
+3323,Needs Attention
+3324,Can't Loose Them
+3325,Loyal
+3326,Can't Loose Them
+3327,Loyal
+3328,Promising
+3329,Potential
+3330,Can't Loose Them
+3331,Champions
+3332,Can't Loose Them
+3333,Promising
+3334,Champions
+3335,Can't Loose Them
+3336,Can't Loose Them
+3337,Can't Loose Them
+3338,Potential
+3339,Loyal
+3340,Loyal
+3341,Needs Attention
+3342,Loyal
+3344,Can't Loose Them
+3345,Potential
+3346,Needs Attention
+3347,Promising
+3348,Require Activation
+3349,Potential
+3350,Can't Loose Them
+3351,Can't Loose Them
+3352,Champions
+3353,Champions
+3354,Require Activation
+3355,Champions
+3356,Can't Loose Them
+3357,Promising
+3358,Can't Loose Them
+3359,Require Activation
+3360,Can't Loose Them
+3361,Can't Loose Them
+3362,Needs Attention
+3363,Can't Loose Them
+3364,Promising
+3366,Potential
+3367,Can't Loose Them
+3368,Champions
+3369,Champions
+3370,Can't Loose Them
+3371,Can't Loose Them
+3372,Can't Loose Them
+3373,Champions
+3374,Champions
+3375,Can't Loose Them
+3376,Promising
+3377,Champions
+3378,Promising
+3379,Can't Loose Them
+3380,Loyal
+3381,Potential
+3382,Can't Loose Them
+3383,Champions
+3384,Promising
+3385,Needs Attention
+3386,Potential
+3387,Can't Loose Them
+3388,Champions
+3389,Champions
+3390,Loyal
+3391,Potential
+3392,Needs Attention
+3393,Champions
+3394,Champions
+3395,Can't Loose Them
+3396,Needs Attention
+3397,Require Activation
+3398,Potential
+3399,Potential
+3400,Promising
+3401,Champions
+3402,Can't Loose Them
+3403,Needs Attention
+3404,Potential
+3405,Can't Loose Them
+3406,Can't Loose Them
+3407,Can't Loose Them
+3408,Loyal
+3409,Champions
+3411,Can't Loose Them
+3412,Potential
+3413,Loyal
+3414,Needs Attention
+3415,Potential
+3416,Require Activation
+3417,Can't Loose Them
+3418,Promising
+3419,Loyal
+3420,Can't Loose Them
+3421,Can't Loose Them
+3422,Loyal
+3423,Needs Attention
+3424,Require Activation
+3425,Can't Loose Them
+3426,Can't Loose Them
+3427,Can't Loose Them
+3428,Require Activation
+3429,Require Activation
+3430,Loyal
+3431,Can't Loose Them
+3432,Can't Loose Them
+3433,Can't Loose Them
+3434,Potential
+3435,Potential
+3436,Can't Loose Them
+3437,Potential
+3438,Promising
+3439,Champions
+3440,Loyal
+3441,Promising
+3442,Needs Attention
+3443,Can't Loose Them
+3444,Promising
+3445,Can't Loose Them
+3446,Potential
+3447,Can't Loose Them
+3448,Champions
+3449,Needs Attention
+3450,Loyal
+3451,Can't Loose Them
+3452,Potential
+3453,Champions
+3454,Promising
+3455,Can't Loose Them
+3456,Promising
+3457,Require Activation
+3458,Needs Attention
+3459,Promising
+3460,Can't Loose Them
+3461,Champions
+3462,Loyal
+3463,Needs Attention
+3465,Can't Loose Them
+3466,Needs Attention
+3467,Can't Loose Them
+3468,Can't Loose Them
+3469,Promising
+3470,Can't Loose Them
+3471,Needs Attention
+3472,Can't Loose Them
+3474,Potential
+3475,Potential
+3476,Promising
+3477,Can't Loose Them
+3478,Can't Loose Them
+3479,Can't Loose Them
+3480,Loyal
+3481,Loyal
+3482,Can't Loose Them
+3483,Champions
+3484,Can't Loose Them
+3485,Promising
+3486,Loyal
+3487,Potential
+3488,Potential
+3489,Champions
+3490,Promising
+3491,Require Activation
+3492,Promising
+3493,Champions
+3494,Loyal
+3495,Can't Loose Them
+3496,Needs Attention
+3497,Needs Attention
+3498,Potential
+3499,Champions
+3500,Potential
